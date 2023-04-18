@@ -1,1 +1,1 @@
-fooo
+hello git hooks
